@@ -1,0 +1,10 @@
+
+@import "tailwindcss";
+
+.custom-input {
+    @apply w-[100%] h-12 text-[1rem] focus:outline-none focus:border-b-amber-800 px-4 py-2 my-2 bg-amber-50 rounded-lg border-0 focus:border-1
+}
+
+body {
+    background-color: #F8F8F8;
+}
